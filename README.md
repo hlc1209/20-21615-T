@@ -1,16 +1,13 @@
 # File Structure
 ```
-├── Data Collecting Tools
-│   ├── snopes.py
-├── Data Processing Tools
-│   └── data_process.ipynb
-├── Raw Data and Processor
-│   ├── fromUSCMeladyLab
-│   └── ManualCollection
-├── Processed Data
+├── Data
 │   ├── en_dup.csv
 │   └── USC_Melady_Lab_hasDup.csv
-├── LICENSE.txt
+├── Data Analysis
+│   └── data_process.ipynb
+├── Data Collecting
+│   └── snopes.py
+├── LICENSE
 └── README.md
 ```
 
