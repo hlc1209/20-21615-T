@@ -14,12 +14,12 @@
 └── README.md
 ```
 
-# Data Collecting Tools
+# Data Collecting  
 - `snopes.py` by Tianqi
   - It is used to collect data from website www.snopes.com and qc.wa.news.cn (departed)
 
-# Data Processing Tools
-`data_process.ipynb` is written on Jupyter Notebook.
+# Data Analysis  
+`data_process.ipynb` is written on Jupyter Notebook.  
 
 
 # Data
@@ -32,6 +32,10 @@
   - The number of records: 35134.  
   - Data come from usc-melady.github.io/COVID-19-Tweet-Analysis/misinfo.html, accessed in May.  
   - Reference: Sharma, Karishma, et al. "Coronavirus on social media: Analyzing misinformation in Twitter conversations."   arXiv preprint arXiv:2003.12309 (2020).
+  
+  
+# Acknowledgement
+- We thank Tianqi, Wenshuo, Jianni, Xiaofeng, and Hanlong for rumor data collection and labeling.  
 
 # The MIT License (MIT)
 
