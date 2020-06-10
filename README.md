@@ -26,7 +26,7 @@
   - Data from www.snopes.com and qc.wa.news.cn are collected by 'snopes.py'.  
 
 - `USC_Melady_Lab_hasDup.csv` 
-  - The number of records: 35134.  
+  - The number of records: 35134 (with duplicates).  
   - Data come from usc-melady.github.io/COVID-19-Tweet-Analysis/misinfo.html, accessed in May.  
   - Reference: Sharma, Karishma, et al. "Coronavirus on social media: Analyzing misinformation in Twitter conversations."   arXiv preprint arXiv:2003.12309 (2020).
   
