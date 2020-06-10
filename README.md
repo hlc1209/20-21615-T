@@ -20,25 +20,18 @@
 
 # Data Processing Tools
 `data_process.ipynb` is written on Jupyter Notebook.
-P
-
-# Raw Data
-- Manual Collection
-  - These parts of data are collected manually. Their sources are mainly twitter.com. The rest of them come from keywords searching in web search engines.
-  - How to run the processing program: `python raw_data_processor.py`
 
 
-- fromUSCMeladyLab
-  - These data comes from usc-melady.github.io/COVID-19-Tweet-Analysis/misinfo.html
-  - How to run the processing program: `python raw_data_processor.py`
+# Data
+- `en_dup.csv` 
+  - The number of records: 7179.   
+  - Part of data are collected manually by keywords searching from sources such as twitter.com.  
+  - Data from www.snopes.com and qc.wa.news.cn are collected by 'snopes.py'.  
 
-# Processed Data
-- `en_dup.csv` is the processed data set corresponding to the "ManualCollection" section.
-  - The number of records: 7179
-
-
-- `USC_Melady_Lab_hasDup.csv` is the processed data set corresponding to the "fromUSCMeladyLab" section.
-  - The number of records: 35134
+- `USC_Melady_Lab_hasDup.csv` 
+  - The number of records: 35134.  
+  - Data come from usc-melady.github.io/COVID-19-Tweet-Analysis/misinfo.html, accessed in May.  
+  - Reference: Sharma, Karishma, et al. "Coronavirus on social media: Analyzing misinformation in Twitter conversations."   arXiv preprint arXiv:2003.12309 (2020).
 
 # The MIT License (MIT)
 
